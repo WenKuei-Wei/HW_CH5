@@ -1,0 +1,15 @@
+class test19 
+{
+	public static void main(String[] args)
+	{
+		int[]test;
+		test=new int[5];
+		
+		System.out.println("±N­È«ü©wµ¹test[10]");
+		
+		test[10]=80;
+		System.out.println("±N80«ü©wµ¹test[10]");
+		System.out.println("¶¶§Q°õ¦æ•¢");
+		
+	}
+}
